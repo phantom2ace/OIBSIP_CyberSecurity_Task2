@@ -41,21 +41,9 @@ Firewall successfully configured with the following rules:
 ---
 
 ## 📸 Screenshot
-![UFW Status](screenshots/ufw_status.png)
+![UFW Status](ufw_status.png)
 
----
 
-## 🎥 Demo Video Idea
-Title: **Configuring a Basic Firewall Using UFW on Ubuntu**
-
-**Video Outline:**
-1. Introduce the task & objective.  
-2. Show terminal commands to install and configure UFW.  
-3. Demonstrate firewall rules with `ufw status`.  
-4. Explain how SSH is allowed and HTTP is blocked.  
-5. End with a summary and a GitHub link.
-
----
 
 ## 🧩 Notes
 - Always ensure SSH is allowed before enabling the firewall to avoid locking yourself out.  
